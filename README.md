@@ -1,18 +1,17 @@
-# 5ª Edição HackDays Comunidade DS
+# 5th Edition of HackDays - DS Community
 
-Imagina a FashionLine, uma loja de roupas que está se destacando nos EUA. No entanto, com o sucesso, surgem desafios: manter a qualidade dos produtos, a satisfação dos clientes e garantir que os sistemas internos funcionem sem problemas.
+Imagine FashionLine, a clothing store making waves in the U.S. However, success comes with challenges: maintaining product quality, ensuring customer satisfaction, and keeping internal systems running smoothly.
 
-Conforme mais pessoas começam a comprar, mais problemas aparecem. É preciso criar produtos que os clientes realmente desejem, encontrar o público certo para direcionar o marketing e lidar com sistemas que podem travar devido ao alto tráfego. A solução? Criar uma equipe especial, o "War Room", composta por especialistas de diferentes áreas, trabalhando juntos para melhorar a experiência do cliente.
+As more customers flock to buy, more issues arise. The company needs to create products customers truly desire, target the right audience for marketing, and deal with systems that might crash under high traffic. The solution? Form a "War Room" team—specialists from different areas working together to enhance the customer experience.
 
-Aqui é onde entra o time *Esposa do Kuririn*. Eles foram os campeões desta competição no Kaggle, e merecem nossos aplausos! Quanto a nós, *SOL_Dados*, conseguimos um respeitável 12º lugar, e apesar de não termos ficado em primeiro, aprendemos imensamente durante essa jornada. Foi uma honra competir com times tão talentosos e inspiradores.
+This is where the **Esposa do Kuririn** team shines. They were crowned champions in this Kaggle competition, and they deserve all the applause! As for us, **SOL_Dados**, we secured an admirable 12th place. While we didn’t clinch the top spot, the journey was immensely educational. Competing with such talented and inspiring teams was a privilege.
 
-![img/leaderboard.jpg](https://github.com/OscarFantozzi/Hackdays_5/blob/main/img/leaderboard.jpg)
+Our solution focused on customer satisfaction. Using binary classification machine learning algorithms, we measured each customer's satisfaction level. By predicting whether a customer would be "Satisfied" or "Neutral/Unsatisfied," we identified those who needed special attention.
 
-O foco da nossa solução estava na satisfação do cliente. Utilizamos algoritmos de Machine Learning de classificação binária para medir o nível de satisfação de cada cliente. Ao prever se um cliente ficaria "Satisfeito" ou "Neutro/Insatisfeito", conseguimos identificar aqueles que precisavam de atenção especial.
+![Leaderboard](https://github.com/OscarFantozzi/Hackdays_5/blob/main/img/leaderboard.jpg)
 
-Vale a pena ressaltar que nosso código não foi organizado da maneira ideal e foi comitado como estava, devido ao curto prazo de desenvolvimento e apresentação da solução (apenas 2 dias). Mesmo com essa limitação de tempo, estamos orgulhosos do que conseguimos realizar.
+This competition wasn’t just about winning—it was an opportunity to learn. By analyzing the winning notebook from the **Esposa do Kuririn** team, we expanded our knowledge and understood what made them the best.
 
-E se você estiver curioso, disponibilizamos nossos notebooks, incluindo o vencedor do *Esposa do Kuririn*, e nossa submissão. Na Comunidade DS, a partilha de conhecimento é fundamental e queremos contribuir para essa troca. Você pode conferir a competição [aqui](https://www.kaggle.com/competitions/instyle-nps/overview).
+If you're curious, we’ve made our notebooks available, including the winning one from **Esposa do Kuririn**, as well as our submission. In the DS Community, sharing knowledge is key, and we want to contribute to this exchange. You can check out the competition [here](https://www.kaggle.com/competitions).
 
-Este evento nos lembra que o aprendizado é uma grande recompensa. Celebremos cada etapa dessa incrível jornada de aprendizado na Comunidade DS. 🚀📊🏆
-
+This event reminds us that learning is the ultimate reward. Let’s celebrate every step of this incredible learning journey in the DS Community. 🚀📊🏆
